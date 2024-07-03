@@ -35,7 +35,7 @@ Run the following commands to approve and deposit the minted NFTs from Ethereum 
 npx hardhat run scripts/TransferTokens.js --network sepolia
 ```
 ### Checking the balance of the wallet
-Run the following commands to approve and deposit the minted NFTs from Ethereum testnet sepolia.
+Run the following command to get the balance of the particular wallet address
 ```
 npx hardhat run scripts/getBalance.js --network sepolia
 ```
